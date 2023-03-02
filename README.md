@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧑‍💻 I'm currently working on a React Native App.<br>💻 I'm looking forward to Building software that can help people.<br>🧑‍🏫 I'm currently learning React Native and React Three Fiber.<br>📚 If I'm not answering I might got stuck in a Book.<br>🌍 Located in Northern Germany<br>
+🧑‍💻 I'm currently working on my Portfolio ([GitHub Repo](https://github.com/JoelStorr/Portfolio)).<br>💻 I'm looking forward to Building software that can help people.<br>🧑‍🏫 I'm currently learning React Native and React Three Fiber.<br>📚 If I'm not answering I might got stuck in a Book.<br>🌍 Located in Northern Germany<br>
 
 See my GitHub Projects on GitHub Pages 🌍:<br>
 🔷 [Shape CSS](https://joelstorr.github.io/shape-css-gp/) <br>
