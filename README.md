@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧑‍💻 I'm currently working on WeRead ([GitHub Repo](https://github.com/JoelStorr/portfolioWebsiteReact)) a NextJS book tracker.<br>📚 If I'm not answering I might got stuck in a Book.<br>🌍 Located in Northern Germany<br>
+🧑‍💻 I'm currently working on WeRead ([GitHub Repo](https://github.com/JoelStorr/weread-nextjs-mongodb)) a NextJS book tracker.<br>📚 If I'm not answering I might got stuck in a Book.<br>🌍 Located in Northern Germany<br>
 
 See my GitHub Projects on GitHub Pages 🌍:<br>
 🔷 [Shape CSS](https://joelstorr.github.io/shape-css-gp/) <br>
